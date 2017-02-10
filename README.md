@@ -8,10 +8,12 @@
 2. ```cd qh-blog```
 3. ```npm install```
 4. ```npm install hexo -g```
-5. ```hexo clean```
-6. ```hexo generate```
-7. ```hexo server```
-8. check localhost:4000 to see qihong`s blog!
+5. ```cd themes/next```
+6. ```npm install```
+7. ```hexo clean```
+8. ```hexo generate```
+9. ```hexo server```
+10. check localhost:4000 to see qihong`s blog!
 
 ## special thanks to
 - [hexo](https://hexo.io/)
